@@ -1,4 +1,4 @@
-// ______________________ MAIN PROGRAM (main_task1a.c) ______________________
+// ______________________ MAIN PROGRAM (main.c) ______________________
 /*
 * Kiana Peterson & Nattapon "Genie" Oonlamom
 * Lab 2 Task 1a
