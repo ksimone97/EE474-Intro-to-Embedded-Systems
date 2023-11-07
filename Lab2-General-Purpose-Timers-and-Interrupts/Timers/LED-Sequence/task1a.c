@@ -9,7 +9,7 @@
 
 #include <stdint.h>
 #include <stdio.h>
-#include <lab1.h>
+#include <lab2.h>
 
 void task1a(void) {
   
