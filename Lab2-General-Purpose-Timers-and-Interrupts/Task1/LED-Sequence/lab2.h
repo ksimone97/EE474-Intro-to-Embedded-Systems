@@ -1,7 +1,7 @@
 // _________ HEADER FILE (lab2.h) _________
 /*
 * Kiana Peterson & Nattapon "Genie" Oonlamom
-* Lab 2
+* Lab 2: General-Purpose Timers and Interrupts
 * November 2nd, 2023
 * This header sets up a periodic timer with interrupts as well as ports F, N, J,
 *   and E for the LEDs and switches. It also declares all functions and pin
