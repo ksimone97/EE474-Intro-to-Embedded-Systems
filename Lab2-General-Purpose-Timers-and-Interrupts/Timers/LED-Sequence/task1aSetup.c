@@ -9,7 +9,7 @@
 
 #include <stdint.h>
 #include <stdio.h>
-#include <Lab2Task1.h>
+#include <lab2.h>
 
 void task1aSetup(void) {
   int seconds = 1;
